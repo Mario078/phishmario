@@ -1,4 +1,4 @@
-99#!/bin/bash
+
 
 ##   Phishmario : 	Automated Phishing Tool
 ##   Author 	: 	MARIO078 
