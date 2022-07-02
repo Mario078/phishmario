@@ -1,12 +1,12 @@
 FROM debian:latest
-LABEL MAINTAINER="https://github.com/Mario078/phishmario"
+LABEL MAINTAINER="https://github.com/htr-tech/zphisher"
 
-WORKDIR /phishmario/
-ADD . /phishmario
+WORKDIR /zphisher/
+ADD . /zphisher
 
 RUN apt update && \
     apt full-upgrade -y && \
     apt install -y curl unzip wget && \
     apt install --no-install-recommends -y php && \
     apt clean
-CMD ["./phishmario.sh"]
+CMD ["./zphisher.sh"]

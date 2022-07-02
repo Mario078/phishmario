@@ -1,4 +1,4 @@
-99#!/bin/bash
+#!/bin/bash
 
 ##   Phishmario : 	Automated Phishing Tool
 ##   Author 	: 	MARIO078 
@@ -310,10 +310,10 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}MARIO078 ${RED}[ ${ORANGE}MARIO078 ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Mario078
-		${GREEN}Social   ${RED}:  ${CYAN}https://www.jekentmeniet.nl
-		${GREEN}Version  ${RED}:  ${ORANGE}1.0
+		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
+		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
 								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1,AliMilani ${RESETBG}
